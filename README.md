@@ -24,7 +24,7 @@
 Its main xgoal is to help you to write **concise** and **correct** software without slowing down your code.
 
 
-## Sponsors
+## Sponsorsxxxxxxxxxxxxxxxxrrrr
 
 *attrs* would not be possible without our [amazing sponsors](https://github.com/sponsors/hynek).
 Especially those generously supporting us at the *The Organization* tier and higher:
@@ -44,7 +44,7 @@ Especially those generously supporting us at the *The Organization* tier and hig
 
 ## Example
 
-*attrs* gives you a class decorator and a way to declaratively define the attributes on that class:
+*attrs* gives you a class decorator and a way to declaratively define the attributes on that class:xxx
 
 <!-- code-begin -->
 
